@@ -14,5 +14,9 @@
     },
     "esmodules": [
       "scripts/vote-skip.js"
-    ]
+    ],
+    "styles": [
+      "styles/vote-skip.css"
+    ],
+    "socket": true
   }
